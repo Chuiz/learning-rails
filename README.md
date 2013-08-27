@@ -1,4 +1,0 @@
-learning-rails
-==============
-
-Learning Rails
